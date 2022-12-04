@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\NTier\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\source\repos\NTier\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\source\repos\NTier\DAL\bin\Debug\Common.dll
+C:\Users\DELL\source\repos\NTier\DAL\bin\Debug\Common.pdb
+C:\Users\DELL\source\repos\NTier\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NTier\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NTier\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\source\repos\NTier\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\source\repos\NTier\DAL\obj\Debug\DAL.pdb
